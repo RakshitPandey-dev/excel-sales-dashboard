@@ -8,7 +8,7 @@ This project demonstrates my ability to organize raw data, create Pivot Tables, 
 
 ## 📸 Dashboard Preview
 
-![Sales Performance Dashboard](images/dashboard.png)
+![Sales Performance Dashboard](dashboard.png)
 
 ---
 
